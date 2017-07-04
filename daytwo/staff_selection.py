@@ -1,4 +1,4 @@
-'''this is a staff selection  problem which is being improved '''
+'''opp aspects inheritence polymorpshim overinding'''
 
 class Staff():
     def __init__(self,id_no,name,sex,):
