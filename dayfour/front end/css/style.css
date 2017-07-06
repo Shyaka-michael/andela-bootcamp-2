@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin: auto;
+}
+
+#sign-in{
+    margin-left: 20px;
+    border-radius: 2px;
+    background-color: #4285F4;
+    border: 0px;
+}
+
+#center-img{
+    margin: auto;
+    width: 24%;
+    height: auto;
+    margin-top: 11%;
+}
+
+#search-area{
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+}
+
+#search-txt{
+    border-radius: 1px;
+    box-shadow: 5px 5px 8px #eee;
+}
+
+.search-button{
+    background-color: #eee;
+    color: #5e5e5e;
+    padding: 8px;
+    margin-top: 3%;
+    border-radius: 2px;
+    margin-left: 1%;
+    border: none;
+    font-size: small;
+}
+
+footer .navbar-default{
+    background-color: #eee;
+}
